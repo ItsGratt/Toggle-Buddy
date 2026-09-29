@@ -1,4 +1,4 @@
-# Toggle Goat
+# Toggle Buddy
 
 A tiny Windows desktop buddy that shows whether Num Lock and Caps Lock are on.
 
